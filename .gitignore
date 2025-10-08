@@ -128,3 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+.idea/misc.xml
+.idea/modules.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/PMP-Croitor-Vladimir-Alexandru-3E2.iml
+.idea/vcs.xml

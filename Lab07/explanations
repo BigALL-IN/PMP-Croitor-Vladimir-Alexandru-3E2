@@ -1,0 +1,2 @@
+c) Explanation: The Bayesian and frequentist estimates are very similar, thanks to a weak prior and sufficient data, the small difference is caused by bayes being influenced by the small prior
+d) Explanation: The strong prior shifts the HDI towards 50dB, while in the case of the weak prior sigma mainly relies on data, since HalfNormal(10) is broad
